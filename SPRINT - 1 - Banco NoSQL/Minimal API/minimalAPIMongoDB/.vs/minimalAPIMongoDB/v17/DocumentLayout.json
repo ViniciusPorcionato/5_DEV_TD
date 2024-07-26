@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\47423489824\\Desktop\\5_DEV_TD\\SPRINT - 1 - Banco NoSQL\\Minimal API\\minimalAPIMongoDB\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{55445F89-6B6D-4DEA-ADEF-8750AEB1E422}|minimalAPIMongoDB\\minimalAPIMongoDB.csproj|c:\\users\\47423489824\\desktop\\5_dev_td\\sprint - 1 - banco nosql\\minimal api\\minimalapimongodb\\minimalapimongodb\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55445F89-6B6D-4DEA-ADEF-8750AEB1E422}|minimalAPIMongoDB\\minimalAPIMongoDB.csproj|solutionrelative:minimalapimongodb\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55445F89-6B6D-4DEA-ADEF-8750AEB1E422}|minimalAPIMongoDB\\minimalAPIMongoDB.csproj|c:\\users\\47423489824\\desktop\\5_dev_td\\sprint - 1 - banco nosql\\minimal api\\minimalapimongodb\\minimalapimongodb\\domains\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55445F89-6B6D-4DEA-ADEF-8750AEB1E422}|minimalAPIMongoDB\\minimalAPIMongoDB.csproj|solutionrelative:minimalapimongodb\\domains\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55445F89-6B6D-4DEA-ADEF-8750AEB1E422}|minimalAPIMongoDB\\minimalAPIMongoDB.csproj|c:\\users\\47423489824\\desktop\\5_dev_td\\sprint - 1 - banco nosql\\minimal api\\minimalapimongodb\\minimalapimongodb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55445F89-6B6D-4DEA-ADEF-8750AEB1E422}|minimalAPIMongoDB\\minimalAPIMongoDB.csproj|solutionrelative:minimalapimongodb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55445F89-6B6D-4DEA-ADEF-8750AEB1E422}|minimalAPIMongoDB\\minimalAPIMongoDB.csproj|c:\\users\\47423489824\\desktop\\5_dev_td\\sprint - 1 - banco nosql\\minimal api\\minimalapimongodb\\minimalapimongodb\\services\\mongodbservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55445F89-6B6D-4DEA-ADEF-8750AEB1E422}|minimalAPIMongoDB\\minimalAPIMongoDB.csproj|solutionrelative:minimalapimongodb\\services\\mongodbservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55445F89-6B6D-4DEA-ADEF-8750AEB1E422}|minimalAPIMongoDB\\minimalAPIMongoDB.csproj|c:\\users\\47423489824\\desktop\\5_dev_td\\sprint - 1 - banco nosql\\minimal api\\minimalapimongodb\\minimalapimongodb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{55445F89-6B6D-4DEA-ADEF-8750AEB1E422}|minimalAPIMongoDB\\minimalAPIMongoDB.csproj|solutionrelative:minimalapimongodb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55445F89-6B6D-4DEA-ADEF-8750AEB1E422}|minimalAPIMongoDB\\minimalAPIMongoDB.csproj|c:\\users\\47423489824\\desktop\\5_dev_td\\sprint - 1 - banco nosql\\minimal api\\minimalapimongodb\\minimalapimongodb\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{55445F89-6B6D-4DEA-ADEF-8750AEB1E422}|minimalAPIMongoDB\\minimalAPIMongoDB.csproj|solutionrelative:minimalapimongodb\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\47423489824\\Desktop\\5_DEV_TD\\SPRINT - 1 - Banco NoSQL\\Minimal API\\minimalAPIMongoDB\\minimalAPIMongoDB\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "minimalAPIMongoDB\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\47423489824\\Desktop\\5_DEV_TD\\SPRINT - 1 - Banco NoSQL\\Minimal API\\minimalAPIMongoDB\\minimalAPIMongoDB\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "minimalAPIMongoDB\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAADsAAAAAAAAAAAAuwEgAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T18:22:28.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\47423489824\\Desktop\\5_DEV_TD\\SPRINT - 1 - Banco NoSQL\\Minimal API\\minimalAPIMongoDB\\minimalAPIMongoDB\\Domains\\Product.cs",
+              "RelativeDocumentMoniker": "minimalAPIMongoDB\\Domains\\Product.cs",
+              "ToolTip": "C:\\Users\\47423489824\\Desktop\\5_DEV_TD\\SPRINT - 1 - Banco NoSQL\\Minimal API\\minimalAPIMongoDB\\minimalAPIMongoDB\\Domains\\Product.cs",
+              "RelativeToolTip": "minimalAPIMongoDB\\Domains\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T18:09:16.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MongoDbService.cs",
+              "DocumentMoniker": "C:\\Users\\47423489824\\Desktop\\5_DEV_TD\\SPRINT - 1 - Banco NoSQL\\Minimal API\\minimalAPIMongoDB\\minimalAPIMongoDB\\Services\\MongoDbService.cs",
+              "RelativeDocumentMoniker": "minimalAPIMongoDB\\Services\\MongoDbService.cs",
+              "ToolTip": "C:\\Users\\47423489824\\Desktop\\5_DEV_TD\\SPRINT - 1 - Banco NoSQL\\Minimal API\\minimalAPIMongoDB\\minimalAPIMongoDB\\Services\\MongoDbService.cs",
+              "RelativeToolTip": "minimalAPIMongoDB\\Services\\MongoDbService.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAADwvyYAAABWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T17:42:32.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\47423489824\\Desktop\\5_DEV_TD\\SPRINT - 1 - Banco NoSQL\\Minimal API\\minimalAPIMongoDB\\minimalAPIMongoDB\\Program.cs",
+              "RelativeDocumentMoniker": "minimalAPIMongoDB\\Program.cs",
+              "ToolTip": "C:\\Users\\47423489824\\Desktop\\5_DEV_TD\\SPRINT - 1 - Banco NoSQL\\Minimal API\\minimalAPIMongoDB\\minimalAPIMongoDB\\Program.cs",
+              "RelativeToolTip": "minimalAPIMongoDB\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T17:41:02.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\47423489824\\Desktop\\5_DEV_TD\\SPRINT - 1 - Banco NoSQL\\Minimal API\\minimalAPIMongoDB\\minimalAPIMongoDB\\appsettings.json",
+              "RelativeDocumentMoniker": "minimalAPIMongoDB\\appsettings.json",
+              "ToolTip": "C:\\Users\\47423489824\\Desktop\\5_DEV_TD\\SPRINT - 1 - Banco NoSQL\\Minimal API\\minimalAPIMongoDB\\minimalAPIMongoDB\\appsettings.json",
+              "RelativeToolTip": "minimalAPIMongoDB\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-26T17:38:25.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\47423489824\\Desktop\\5_DEV_TD\\SPRINT - 1 - Banco NoSQL\\Minimal API\\minimalAPIMongoDB\\minimalAPIMongoDB\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "minimalAPIMongoDB\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\47423489824\\Desktop\\5_DEV_TD\\SPRINT - 1 - Banco NoSQL\\Minimal API\\minimalAPIMongoDB\\minimalAPIMongoDB\\appsettings.Development.json",
+              "RelativeToolTip": "minimalAPIMongoDB\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-26T17:35:07.465Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
