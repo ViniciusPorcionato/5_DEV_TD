@@ -55,8 +55,15 @@ namespace minimalAPIMongoDB.Controllers
         {
             try
             {
-                await _product.DeleteOneAsync(p => p.Id == id);
-                return Ok("Deletado com sucesso");
+                var filter = Builders<Product>.Filter.Eq(x => x.Id, id);
+
+                if (filter == null)
+                {
+                    return NotFound();
+                }
+
+                await _product.DeleteOneAsync(filter);
+                return Ok(filter);
             }
             catch (Exception e)
             {
@@ -65,17 +72,20 @@ namespace minimalAPIMongoDB.Controllers
             }
         }
 
-        [HttpGet("BuscarPorId")]
+        [HttpGet("{id}")]
         public async Task<ActionResult> GetById(string id)
         {
             try
             {
-                var product = await _product.Find(p => p.Id == id).ToListAsync();
-                return Ok(product);
+                var product = await _product.Find(p => p.Id == id).FirstOrDefaultAsync();
+                return product == null ? NotFound() : Ok(product);
+
+                //var filter = Builders<Product>.Filter.Eq(x => x.Id, id);
+                //return Ok(filter);                //return Ok(filter);
             }
             catch (Exception ex)
             {
-                return NotFound(ex.Message);
+                return BadRequest(ex.Message);
             }
         }
 
@@ -85,11 +95,36 @@ namespace minimalAPIMongoDB.Controllers
             try
             {
                 var product = await _product.Find(p => p.Name!.ToLower() == name.ToLower()).ToListAsync();
-                return Ok(product);
+                return product != null ? Ok(product) : NotFound();
             }
             catch (Exception ex)
             {
                 return NotFound(ex.Message);
+            }
+        }
+
+        [HttpPut("Atualizar/{id}")]
+        public async Task<ActionResult> Update(Product p)
+        {
+            try
+            {
+                //buscar por id (filtro)
+                var filter = Builders<Product>.Filter.Eq(x => x.Id, p.Id);
+
+                if (filter == null)
+                {
+                    return NotFound();
+                }
+
+                //substituindo o objeto pelo novo objeto
+                await _product.ReplaceOneAsync(filter, p);
+
+                return Ok();
+            }
+            catch (Exception ex)
+            {
+                return BadRequest(ex.Message);
+                throw;
             }
         }
 
