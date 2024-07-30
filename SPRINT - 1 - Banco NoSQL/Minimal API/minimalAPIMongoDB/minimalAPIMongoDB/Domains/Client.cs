@@ -9,9 +9,8 @@ namespace minimalAPIMongoDB.Domains
         [BsonElement("_id"), BsonRepresentation(BsonType.ObjectId)]
         public string? Id { get; set; }
 
-        [BsonElement("userId"), BsonRepresentation(BsonType.ObjectId)]
-        public  ObjectId? UserId { get; set; }
-        public User User { get; set; }
+        [BsonElement("userId")]
+        public  string? UserId { get; set; }
 
         [BsonElement("cpf")]
         public string? Cpf { get; set; }
