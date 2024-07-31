@@ -29,6 +29,22 @@ namespace minimalAPIMongoDB.Controllers
             try
             {
                 var orders = await _order.Find(FilterDefinition<Order>.Empty).ToListAsync();
+
+                foreach (var item in orders)
+                {
+                    if (item.ProductId != null)
+                    {
+                        var filter = Builders<Product>.Filter.In(p => p.Id, item.ProductId);
+
+                        item.Products = await _product.Find(filter).ToListAsync();
+                    }
+
+                    if (item.ClientId != null)
+                    {
+                        item.Client = await _client.Find(x => x.Id == item.ClientId).FirstOrDefaultAsync();
+                    }
+                }
+
                 return Ok(orders);
             }
             catch (Exception ex)
@@ -56,7 +72,6 @@ namespace minimalAPIMongoDB.Controllers
                     return NotFound("Cliente não existe !");
                 }
 
-                order.Client = client;
                 
                 await _order.InsertOneAsync(order);
 
@@ -91,19 +106,33 @@ namespace minimalAPIMongoDB.Controllers
             }
         }
 
-        [HttpGet("BuscarPorId/{id}")]
-        public async Task<ActionResult> GetById(string id)
+        [HttpGet("{id}")]
+        public async Task<ActionResult<Order>> Get(string id)
         {
             try
             {
-                var order = await _order.Find(c => c.Id == id).FirstOrDefaultAsync();
-                return order == null ? NotFound() : Ok(order);
+                var order = await _order.Find(x => x.Id == id).FirstOrDefaultAsync();
+
+                    if (order.ProductId != null)
+                    {
+                        var filter = Builders<Product>.Filter.In(p => p.Id, order.ProductId);
+
+                        order.Products = await _product.Find(filter).ToListAsync();
+                    }
+
+                    if (order.ClientId != null)
+                    {
+                        order.Client = await _client.Find(x => x.Id == order.ClientId).FirstOrDefaultAsync();
+                    }
+
+                return Ok(order);
             }
             catch (Exception ex)
             {
                 return BadRequest(ex.Message);
             }
         }
+
 
         [HttpPut("Atualizar")]
         public async Task<ActionResult> Update(Order o)
