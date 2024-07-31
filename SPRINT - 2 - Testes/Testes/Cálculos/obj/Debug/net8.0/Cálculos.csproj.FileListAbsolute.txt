@@ -1,0 +1,15 @@
+C:\Users\47423489824\Desktop\5_DEV_TD\SPRINT - 2 - Testes\Testes\Cálculos\bin\Debug\net8.0\Cálculos.exe
+C:\Users\47423489824\Desktop\5_DEV_TD\SPRINT - 2 - Testes\Testes\Cálculos\bin\Debug\net8.0\Cálculos.deps.json
+C:\Users\47423489824\Desktop\5_DEV_TD\SPRINT - 2 - Testes\Testes\Cálculos\bin\Debug\net8.0\Cálculos.runtimeconfig.json
+C:\Users\47423489824\Desktop\5_DEV_TD\SPRINT - 2 - Testes\Testes\Cálculos\bin\Debug\net8.0\Cálculos.dll
+C:\Users\47423489824\Desktop\5_DEV_TD\SPRINT - 2 - Testes\Testes\Cálculos\bin\Debug\net8.0\Cálculos.pdb
+C:\Users\47423489824\Desktop\5_DEV_TD\SPRINT - 2 - Testes\Testes\Cálculos\obj\Debug\net8.0\Cálculos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\47423489824\Desktop\5_DEV_TD\SPRINT - 2 - Testes\Testes\Cálculos\obj\Debug\net8.0\Cálculos.AssemblyInfoInputs.cache
+C:\Users\47423489824\Desktop\5_DEV_TD\SPRINT - 2 - Testes\Testes\Cálculos\obj\Debug\net8.0\Cálculos.AssemblyInfo.cs
+C:\Users\47423489824\Desktop\5_DEV_TD\SPRINT - 2 - Testes\Testes\Cálculos\obj\Debug\net8.0\Cálculos.csproj.CoreCompileInputs.cache
+C:\Users\47423489824\Desktop\5_DEV_TD\SPRINT - 2 - Testes\Testes\Cálculos\obj\Debug\net8.0\Cálculos.sourcelink.json
+C:\Users\47423489824\Desktop\5_DEV_TD\SPRINT - 2 - Testes\Testes\Cálculos\obj\Debug\net8.0\Cálculos.dll
+C:\Users\47423489824\Desktop\5_DEV_TD\SPRINT - 2 - Testes\Testes\Cálculos\obj\Debug\net8.0\refint\Cálculos.dll
+C:\Users\47423489824\Desktop\5_DEV_TD\SPRINT - 2 - Testes\Testes\Cálculos\obj\Debug\net8.0\Cálculos.pdb
+C:\Users\47423489824\Desktop\5_DEV_TD\SPRINT - 2 - Testes\Testes\Cálculos\obj\Debug\net8.0\Cálculos.genruntimeconfig.cache
+C:\Users\47423489824\Desktop\5_DEV_TD\SPRINT - 2 - Testes\Testes\Cálculos\obj\Debug\net8.0\ref\Cálculos.dll
