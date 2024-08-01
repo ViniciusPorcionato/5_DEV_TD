@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\47423489824\\Desktop\\5_DEV_TD\\SPRINT - 2 - Testes\\Teste - 3\\Conversao\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8E6DF533-BF10-4FE9-A016-C32A4844C173}|Conversao.csproj|c:\\users\\47423489824\\desktop\\5_dev_td\\sprint - 2 - testes\\teste - 3\\conversao\\conversao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E6DF533-BF10-4FE9-A016-C32A4844C173}|Conversao.csproj|solutionrelative:conversao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D94A05A5-C1FB-45A2-AD08-DA69CEA90960}|..\\ConversaoUnitTest\\ConversaoUnitTest.csproj|c:\\users\\47423489824\\desktop\\5_dev_td\\sprint - 2 - testes\\teste - 3\\conversaounittest\\unittest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E6DF533-BF10-4FE9-A016-C32A4844C173}|Conversao.csproj|c:\\users\\47423489824\\desktop\\5_dev_td\\sprint - 2 - testes\\teste - 3\\conversao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E6DF533-BF10-4FE9-A016-C32A4844C173}|Conversao.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 203,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UnitTest.cs",
+              "DocumentMoniker": "C:\\Users\\47423489824\\Desktop\\5_DEV_TD\\SPRINT - 2 - Testes\\Teste - 3\\ConversaoUnitTest\\UnitTest.cs",
+              "RelativeDocumentMoniker": "..\\ConversaoUnitTest\\UnitTest.cs",
+              "ToolTip": "C:\\Users\\47423489824\\Desktop\\5_DEV_TD\\SPRINT - 2 - Testes\\Teste - 3\\ConversaoUnitTest\\UnitTest.cs",
+              "RelativeToolTip": "..\\ConversaoUnitTest\\UnitTest.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T19:09:42.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Conversao.cs",
+              "DocumentMoniker": "C:\\Users\\47423489824\\Desktop\\5_DEV_TD\\SPRINT - 2 - Testes\\Teste - 3\\Conversao\\Conversao.cs",
+              "RelativeDocumentMoniker": "Conversao.cs",
+              "ToolTip": "C:\\Users\\47423489824\\Desktop\\5_DEV_TD\\SPRINT - 2 - Testes\\Teste - 3\\Conversao\\Conversao.cs",
+              "RelativeToolTip": "Conversao.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T19:06:42.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\47423489824\\Desktop\\5_DEV_TD\\SPRINT - 2 - Testes\\Teste - 3\\Conversao\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\47423489824\\Desktop\\5_DEV_TD\\SPRINT - 2 - Testes\\Teste - 3\\Conversao\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T19:06:22.097Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

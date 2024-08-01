@@ -1,0 +1,15 @@
+C:\Users\47423489824\Desktop\5_DEV_TD\SPRINT - 2 - Testes\Teste - 2\Email\bin\Debug\net8.0\Email.exe
+C:\Users\47423489824\Desktop\5_DEV_TD\SPRINT - 2 - Testes\Teste - 2\Email\bin\Debug\net8.0\Email.deps.json
+C:\Users\47423489824\Desktop\5_DEV_TD\SPRINT - 2 - Testes\Teste - 2\Email\bin\Debug\net8.0\Email.runtimeconfig.json
+C:\Users\47423489824\Desktop\5_DEV_TD\SPRINT - 2 - Testes\Teste - 2\Email\bin\Debug\net8.0\Email.dll
+C:\Users\47423489824\Desktop\5_DEV_TD\SPRINT - 2 - Testes\Teste - 2\Email\bin\Debug\net8.0\Email.pdb
+C:\Users\47423489824\Desktop\5_DEV_TD\SPRINT - 2 - Testes\Teste - 2\Email\obj\Debug\net8.0\Email.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\47423489824\Desktop\5_DEV_TD\SPRINT - 2 - Testes\Teste - 2\Email\obj\Debug\net8.0\Email.AssemblyInfoInputs.cache
+C:\Users\47423489824\Desktop\5_DEV_TD\SPRINT - 2 - Testes\Teste - 2\Email\obj\Debug\net8.0\Email.AssemblyInfo.cs
+C:\Users\47423489824\Desktop\5_DEV_TD\SPRINT - 2 - Testes\Teste - 2\Email\obj\Debug\net8.0\Email.csproj.CoreCompileInputs.cache
+C:\Users\47423489824\Desktop\5_DEV_TD\SPRINT - 2 - Testes\Teste - 2\Email\obj\Debug\net8.0\Email.sourcelink.json
+C:\Users\47423489824\Desktop\5_DEV_TD\SPRINT - 2 - Testes\Teste - 2\Email\obj\Debug\net8.0\Email.dll
+C:\Users\47423489824\Desktop\5_DEV_TD\SPRINT - 2 - Testes\Teste - 2\Email\obj\Debug\net8.0\refint\Email.dll
+C:\Users\47423489824\Desktop\5_DEV_TD\SPRINT - 2 - Testes\Teste - 2\Email\obj\Debug\net8.0\Email.pdb
+C:\Users\47423489824\Desktop\5_DEV_TD\SPRINT - 2 - Testes\Teste - 2\Email\obj\Debug\net8.0\Email.genruntimeconfig.cache
+C:\Users\47423489824\Desktop\5_DEV_TD\SPRINT - 2 - Testes\Teste - 2\Email\obj\Debug\net8.0\ref\Email.dll

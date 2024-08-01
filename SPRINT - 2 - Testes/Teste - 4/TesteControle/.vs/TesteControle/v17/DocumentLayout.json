@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\47423489824\\Desktop\\5_DEV_TD\\SPRINT - 2 - Testes\\Teste - 4\\TesteControle\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EFC00B80-BCBF-495E-95C5-CEAC569D239C}|TesteControle.csproj|c:\\users\\47423489824\\desktop\\5_dev_td\\sprint - 2 - testes\\teste - 4\\testecontrole\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFC00B80-BCBF-495E-95C5-CEAC569D239C}|TesteControle.csproj|solutionrelative:produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFC00B80-BCBF-495E-95C5-CEAC569D239C}|TesteControle.csproj|c:\\users\\47423489824\\desktop\\5_dev_td\\sprint - 2 - testes\\teste - 4\\testecontrole\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFC00B80-BCBF-495E-95C5-CEAC569D239C}|TesteControle.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 203,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Produto.cs",
+              "DocumentMoniker": "C:\\Users\\47423489824\\Desktop\\5_DEV_TD\\SPRINT - 2 - Testes\\Teste - 4\\TesteControle\\Produto.cs",
+              "RelativeDocumentMoniker": "Produto.cs",
+              "ToolTip": "C:\\Users\\47423489824\\Desktop\\5_DEV_TD\\SPRINT - 2 - Testes\\Teste - 4\\TesteControle\\Produto.cs",
+              "RelativeToolTip": "Produto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T20:00:04.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\47423489824\\Desktop\\5_DEV_TD\\SPRINT - 2 - Testes\\Teste - 4\\TesteControle\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\47423489824\\Desktop\\5_DEV_TD\\SPRINT - 2 - Testes\\Teste - 4\\TesteControle\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T19:57:10.664Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

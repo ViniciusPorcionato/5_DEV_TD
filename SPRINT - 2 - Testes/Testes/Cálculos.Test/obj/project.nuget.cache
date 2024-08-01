@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5OTE1AAdTYddJzG+0Z9Ji3rgvPoQA51qUkFJ8Y7Sm3H6kCzbX0EzSa670nEKnYt6gAgaDG/ODQI4oMh8q4BhqQ==",
+  "dgSpecHash": "oIY14AdnD0WmqeyR/Jo8Q8VahK2RjzrRQ+SOUPHKAwY8DBaRpLEk9sxJRxTim2pH1AeEyKPZXsj7w3+r0GUGKg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\47423489824\\Desktop\\5_DEV_TD\\SPRINT - 2 - Testes\\Testes\\Cálculos.Test\\Cálculos.Test.csproj",
+  "projectFilePath": "C:\\Users\\47423489824\\Desktop\\5_DEV_TD\\SPRINT - 2 - Testes\\Testes - 1\\Cálculos.Test\\Cálculos.Test.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\47423489824\\.nuget\\packages\\coverlet.collector\\6.0.0\\coverlet.collector.6.0.0.nupkg.sha512",
     "C:\\Users\\47423489824\\.nuget\\packages\\microsoft.codecoverage\\17.8.0\\microsoft.codecoverage.17.8.0.nupkg.sha512",

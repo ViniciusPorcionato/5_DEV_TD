@@ -1,0 +1,15 @@
+C:\Users\47423489824\Desktop\5_DEV_TD\SPRINT - 2 - Testes\Teste - 3\Conversao\bin\Debug\net8.0\Conversao.exe
+C:\Users\47423489824\Desktop\5_DEV_TD\SPRINT - 2 - Testes\Teste - 3\Conversao\bin\Debug\net8.0\Conversao.deps.json
+C:\Users\47423489824\Desktop\5_DEV_TD\SPRINT - 2 - Testes\Teste - 3\Conversao\bin\Debug\net8.0\Conversao.runtimeconfig.json
+C:\Users\47423489824\Desktop\5_DEV_TD\SPRINT - 2 - Testes\Teste - 3\Conversao\bin\Debug\net8.0\Conversao.dll
+C:\Users\47423489824\Desktop\5_DEV_TD\SPRINT - 2 - Testes\Teste - 3\Conversao\bin\Debug\net8.0\Conversao.pdb
+C:\Users\47423489824\Desktop\5_DEV_TD\SPRINT - 2 - Testes\Teste - 3\Conversao\obj\Debug\net8.0\Conversao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\47423489824\Desktop\5_DEV_TD\SPRINT - 2 - Testes\Teste - 3\Conversao\obj\Debug\net8.0\Conversao.AssemblyInfoInputs.cache
+C:\Users\47423489824\Desktop\5_DEV_TD\SPRINT - 2 - Testes\Teste - 3\Conversao\obj\Debug\net8.0\Conversao.AssemblyInfo.cs
+C:\Users\47423489824\Desktop\5_DEV_TD\SPRINT - 2 - Testes\Teste - 3\Conversao\obj\Debug\net8.0\Conversao.csproj.CoreCompileInputs.cache
+C:\Users\47423489824\Desktop\5_DEV_TD\SPRINT - 2 - Testes\Teste - 3\Conversao\obj\Debug\net8.0\Conversao.sourcelink.json
+C:\Users\47423489824\Desktop\5_DEV_TD\SPRINT - 2 - Testes\Teste - 3\Conversao\obj\Debug\net8.0\Conversao.dll
+C:\Users\47423489824\Desktop\5_DEV_TD\SPRINT - 2 - Testes\Teste - 3\Conversao\obj\Debug\net8.0\refint\Conversao.dll
+C:\Users\47423489824\Desktop\5_DEV_TD\SPRINT - 2 - Testes\Teste - 3\Conversao\obj\Debug\net8.0\Conversao.pdb
+C:\Users\47423489824\Desktop\5_DEV_TD\SPRINT - 2 - Testes\Teste - 3\Conversao\obj\Debug\net8.0\Conversao.genruntimeconfig.cache
+C:\Users\47423489824\Desktop\5_DEV_TD\SPRINT - 2 - Testes\Teste - 3\Conversao\obj\Debug\net8.0\ref\Conversao.dll

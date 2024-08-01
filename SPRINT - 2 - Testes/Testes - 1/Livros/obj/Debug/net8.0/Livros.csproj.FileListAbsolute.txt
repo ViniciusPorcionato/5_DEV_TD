@@ -1,0 +1,15 @@
+C:\Users\47423489824\Desktop\5_DEV_TD\SPRINT - 2 - Testes\Testes - 2\Livros\bin\Debug\net8.0\Livros.exe
+C:\Users\47423489824\Desktop\5_DEV_TD\SPRINT - 2 - Testes\Testes - 2\Livros\bin\Debug\net8.0\Livros.deps.json
+C:\Users\47423489824\Desktop\5_DEV_TD\SPRINT - 2 - Testes\Testes - 2\Livros\bin\Debug\net8.0\Livros.runtimeconfig.json
+C:\Users\47423489824\Desktop\5_DEV_TD\SPRINT - 2 - Testes\Testes - 2\Livros\bin\Debug\net8.0\Livros.dll
+C:\Users\47423489824\Desktop\5_DEV_TD\SPRINT - 2 - Testes\Testes - 2\Livros\bin\Debug\net8.0\Livros.pdb
+C:\Users\47423489824\Desktop\5_DEV_TD\SPRINT - 2 - Testes\Testes - 2\Livros\obj\Debug\net8.0\Livros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\47423489824\Desktop\5_DEV_TD\SPRINT - 2 - Testes\Testes - 2\Livros\obj\Debug\net8.0\Livros.AssemblyInfoInputs.cache
+C:\Users\47423489824\Desktop\5_DEV_TD\SPRINT - 2 - Testes\Testes - 2\Livros\obj\Debug\net8.0\Livros.AssemblyInfo.cs
+C:\Users\47423489824\Desktop\5_DEV_TD\SPRINT - 2 - Testes\Testes - 2\Livros\obj\Debug\net8.0\Livros.csproj.CoreCompileInputs.cache
+C:\Users\47423489824\Desktop\5_DEV_TD\SPRINT - 2 - Testes\Testes - 2\Livros\obj\Debug\net8.0\Livros.sourcelink.json
+C:\Users\47423489824\Desktop\5_DEV_TD\SPRINT - 2 - Testes\Testes - 2\Livros\obj\Debug\net8.0\Livros.dll
+C:\Users\47423489824\Desktop\5_DEV_TD\SPRINT - 2 - Testes\Testes - 2\Livros\obj\Debug\net8.0\refint\Livros.dll
+C:\Users\47423489824\Desktop\5_DEV_TD\SPRINT - 2 - Testes\Testes - 2\Livros\obj\Debug\net8.0\Livros.pdb
+C:\Users\47423489824\Desktop\5_DEV_TD\SPRINT - 2 - Testes\Testes - 2\Livros\obj\Debug\net8.0\Livros.genruntimeconfig.cache
+C:\Users\47423489824\Desktop\5_DEV_TD\SPRINT - 2 - Testes\Testes - 2\Livros\obj\Debug\net8.0\ref\Livros.dll

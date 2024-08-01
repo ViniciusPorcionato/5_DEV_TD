@@ -1,0 +1,82 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\47423489824\\Desktop\\5_DEV_TD\\SPRINT - 2 - Testes\\Testes - 1\\Livros\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{85E51E75-2551-406C-B20F-AEAB06E9FDB2}|Livros.csproj|c:\\users\\47423489824\\desktop\\5_dev_td\\sprint - 2 - testes\\testes - 1\\livros\\livro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85E51E75-2551-406C-B20F-AEAB06E9FDB2}|Livros.csproj|solutionrelative:livro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\47423489824\\Desktop\\5_DEV_TD\\SPRINT - 2 - Testes\\Testes - 2\\LivrosUnitTest\\LivrosUnitTest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85E51E75-2551-406C-B20F-AEAB06E9FDB2}|Livros.csproj|c:\\users\\47423489824\\desktop\\5_dev_td\\sprint - 2 - testes\\testes - 1\\livros\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85E51E75-2551-406C-B20F-AEAB06E9FDB2}|Livros.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\47423489824\\Desktop\\5_DEV_TD\\SPRINT - 2 - Testes\\Testes - 2\\LivrosUnitTest\\LivrosUnitTest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 203,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LivrosUnitTest.csproj",
+              "DocumentMoniker": "C:\\Users\\47423489824\\Desktop\\5_DEV_TD\\SPRINT - 2 - Testes\\Testes - 2\\LivrosUnitTest\\LivrosUnitTest.csproj",
+              "RelativeDocumentMoniker": "..\\..\\Testes - 2\\LivrosUnitTest\\LivrosUnitTest.csproj",
+              "ToolTip": "C:\\Users\\47423489824\\Desktop\\5_DEV_TD\\SPRINT - 2 - Testes\\Testes - 2\\LivrosUnitTest\\LivrosUnitTest.csproj",
+              "RelativeToolTip": "..\\..\\Testes - 2\\LivrosUnitTest\\LivrosUnitTest.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-01T18:49:52.626Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LivrosUnitTest.cs",
+              "DocumentMoniker": "C:\\Users\\47423489824\\Desktop\\5_DEV_TD\\SPRINT - 2 - Testes\\Testes - 2\\LivrosUnitTest\\LivrosUnitTest.cs",
+              "RelativeDocumentMoniker": "..\\..\\Testes - 2\\LivrosUnitTest\\LivrosUnitTest.cs",
+              "ToolTip": "C:\\Users\\47423489824\\Desktop\\5_DEV_TD\\SPRINT - 2 - Testes\\Testes - 2\\LivrosUnitTest\\LivrosUnitTest.cs",
+              "RelativeToolTip": "..\\..\\Testes - 2\\LivrosUnitTest\\LivrosUnitTest.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T18:16:16Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Livro.cs",
+              "DocumentMoniker": "C:\\Users\\47423489824\\Desktop\\5_DEV_TD\\SPRINT - 2 - Testes\\Testes - 1\\Livros\\Livro.cs",
+              "RelativeDocumentMoniker": "Livro.cs",
+              "ToolTip": "C:\\Users\\47423489824\\Desktop\\5_DEV_TD\\SPRINT - 2 - Testes\\Testes - 1\\Livros\\Livro.cs",
+              "RelativeToolTip": "Livro.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T17:53:02.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\47423489824\\Desktop\\5_DEV_TD\\SPRINT - 2 - Testes\\Testes - 1\\Livros\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\47423489824\\Desktop\\5_DEV_TD\\SPRINT - 2 - Testes\\Testes - 1\\Livros\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T17:51:30.405Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
