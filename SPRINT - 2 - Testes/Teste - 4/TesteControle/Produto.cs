@@ -13,12 +13,22 @@ namespace TesteControle
     public class Produto
     {
         public string? Nome { get; set; }
-        public string? Quantidade { get; set; }
+        public int? Quantidade { get; set; }
 
-        public Produto(string nome, string quantidade)
+        public static List<Produto> AdicionarProduto(Produto produto, List<Produto> produtos)
         {
-            Nome = nome;
-            Quantidade = quantidade;
+            var busca = produtos.FirstOrDefault(x => x.Nome == produto.Nome);
+
+            if (busca == null)
+            {
+                produtos.Add(produto);
+            }
+            else
+            {
+                busca.Quantidade += 1;
+            }
+
+            return produtos;
         }
 
 

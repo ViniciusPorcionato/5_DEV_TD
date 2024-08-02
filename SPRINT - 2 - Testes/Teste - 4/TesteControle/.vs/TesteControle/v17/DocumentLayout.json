@@ -3,8 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\47423489824\\Desktop\\5_DEV_TD\\SPRINT - 2 - Testes\\Teste - 4\\TesteControle\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{92E415F0-8979-41FA-BD72-033A899731C0}|..\\TesteControleUnitTest\\TesteControleUnitTest.csproj|c:\\users\\47423489824\\desktop\\5_dev_td\\sprint - 2 - testes\\teste - 4\\testecontroleunittest\\produtounittest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{EFC00B80-BCBF-495E-95C5-CEAC569D239C}|TesteControle.csproj|c:\\users\\47423489824\\desktop\\5_dev_td\\sprint - 2 - testes\\teste - 4\\testecontrole\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EFC00B80-BCBF-495E-95C5-CEAC569D239C}|TesteControle.csproj|solutionrelative:produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92E415F0-8979-41FA-BD72-033A899731C0}|..\\TesteControleUnitTest\\TesteControleUnitTest.csproj|c:\\users\\47423489824\\desktop\\5_dev_td\\sprint - 2 - testes\\teste - 4\\testecontroleunittest\\testecontroleunittest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EFC00B80-BCBF-495E-95C5-CEAC569D239C}|TesteControle.csproj|c:\\users\\47423489824\\desktop\\5_dev_td\\sprint - 2 - testes\\teste - 4\\testecontrole\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -18,24 +24,48 @@
       "DocumentGroups": [
         {
           "DockedWidth": 203,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TesteControleUnitTest.csproj",
+              "DocumentMoniker": "C:\\Users\\47423489824\\Desktop\\5_DEV_TD\\SPRINT - 2 - Testes\\Teste - 4\\TesteControleUnitTest\\TesteControleUnitTest.csproj",
+              "RelativeDocumentMoniker": "..\\TesteControleUnitTest\\TesteControleUnitTest.csproj",
+              "ToolTip": "C:\\Users\\47423489824\\Desktop\\5_DEV_TD\\SPRINT - 2 - Testes\\Teste - 4\\TesteControleUnitTest\\TesteControleUnitTest.csproj",
+              "RelativeToolTip": "..\\TesteControleUnitTest\\TesteControleUnitTest.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-02T17:29:42.475Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Produto.cs",
-              "DocumentMoniker": "C:\\Users\\47423489824\\Desktop\\5_DEV_TD\\SPRINT - 2 - Testes\\Teste - 4\\TesteControle\\Produto.cs",
-              "RelativeDocumentMoniker": "Produto.cs",
-              "ToolTip": "C:\\Users\\47423489824\\Desktop\\5_DEV_TD\\SPRINT - 2 - Testes\\Teste - 4\\TesteControle\\Produto.cs",
-              "RelativeToolTip": "Produto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAJAAAA",
+              "Title": "ProdutoUnitTest.cs",
+              "DocumentMoniker": "C:\\Users\\47423489824\\Desktop\\5_DEV_TD\\SPRINT - 2 - Testes\\Teste - 4\\TesteControleUnitTest\\ProdutoUnitTest.cs",
+              "RelativeDocumentMoniker": "..\\TesteControleUnitTest\\ProdutoUnitTest.cs",
+              "ToolTip": "C:\\Users\\47423489824\\Desktop\\5_DEV_TD\\SPRINT - 2 - Testes\\Teste - 4\\TesteControleUnitTest\\ProdutoUnitTest.cs",
+              "RelativeToolTip": "..\\TesteControleUnitTest\\ProdutoUnitTest.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAmwCQAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-01T20:00:04.376Z",
+              "WhenOpened": "2024-08-02T17:30:07.09Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Produto.cs",
+              "DocumentMoniker": "C:\\Users\\47423489824\\Desktop\\5_DEV_TD\\SPRINT - 2 - Testes\\Teste - 4\\TesteControle\\Produto.cs",
+              "RelativeDocumentMoniker": "Produto.cs",
+              "ToolTip": "C:\\Users\\47423489824\\Desktop\\5_DEV_TD\\SPRINT - 2 - Testes\\Teste - 4\\TesteControle\\Produto.cs",
+              "RelativeToolTip": "Produto.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAiwA8AAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-01T20:00:04.376Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\47423489824\\Desktop\\5_DEV_TD\\SPRINT - 2 - Testes\\Teste - 4\\TesteControle\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -43,8 +73,7 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-01T19:57:10.664Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-01T19:57:10.664Z"
             }
           ]
         }

@@ -1,0 +1,15 @@
+C:\Users\47423489824\Desktop\5_DEV_TD\SPRINT - 2 - Testes\Teste - 4\TesteControle\bin\Debug\net8.0\TesteControle.exe
+C:\Users\47423489824\Desktop\5_DEV_TD\SPRINT - 2 - Testes\Teste - 4\TesteControle\bin\Debug\net8.0\TesteControle.deps.json
+C:\Users\47423489824\Desktop\5_DEV_TD\SPRINT - 2 - Testes\Teste - 4\TesteControle\bin\Debug\net8.0\TesteControle.runtimeconfig.json
+C:\Users\47423489824\Desktop\5_DEV_TD\SPRINT - 2 - Testes\Teste - 4\TesteControle\bin\Debug\net8.0\TesteControle.dll
+C:\Users\47423489824\Desktop\5_DEV_TD\SPRINT - 2 - Testes\Teste - 4\TesteControle\bin\Debug\net8.0\TesteControle.pdb
+C:\Users\47423489824\Desktop\5_DEV_TD\SPRINT - 2 - Testes\Teste - 4\TesteControle\obj\Debug\net8.0\TesteControle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\47423489824\Desktop\5_DEV_TD\SPRINT - 2 - Testes\Teste - 4\TesteControle\obj\Debug\net8.0\TesteControle.AssemblyInfoInputs.cache
+C:\Users\47423489824\Desktop\5_DEV_TD\SPRINT - 2 - Testes\Teste - 4\TesteControle\obj\Debug\net8.0\TesteControle.AssemblyInfo.cs
+C:\Users\47423489824\Desktop\5_DEV_TD\SPRINT - 2 - Testes\Teste - 4\TesteControle\obj\Debug\net8.0\TesteControle.csproj.CoreCompileInputs.cache
+C:\Users\47423489824\Desktop\5_DEV_TD\SPRINT - 2 - Testes\Teste - 4\TesteControle\obj\Debug\net8.0\TesteControle.sourcelink.json
+C:\Users\47423489824\Desktop\5_DEV_TD\SPRINT - 2 - Testes\Teste - 4\TesteControle\obj\Debug\net8.0\TesteControle.dll
+C:\Users\47423489824\Desktop\5_DEV_TD\SPRINT - 2 - Testes\Teste - 4\TesteControle\obj\Debug\net8.0\refint\TesteControle.dll
+C:\Users\47423489824\Desktop\5_DEV_TD\SPRINT - 2 - Testes\Teste - 4\TesteControle\obj\Debug\net8.0\TesteControle.pdb
+C:\Users\47423489824\Desktop\5_DEV_TD\SPRINT - 2 - Testes\Teste - 4\TesteControle\obj\Debug\net8.0\TesteControle.genruntimeconfig.cache
+C:\Users\47423489824\Desktop\5_DEV_TD\SPRINT - 2 - Testes\Teste - 4\TesteControle\obj\Debug\net8.0\ref\TesteControle.dll

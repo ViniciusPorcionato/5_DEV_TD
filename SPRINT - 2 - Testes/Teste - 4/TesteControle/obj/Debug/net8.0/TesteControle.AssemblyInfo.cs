@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TesteControle")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+24163b87baf0a6cc4efd8838f4300666ea924785")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e69d617e5a7b518a92ea9c1c6adb23c79c0c09f7")]
 [assembly: System.Reflection.AssemblyProductAttribute("TesteControle")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TesteControle")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
