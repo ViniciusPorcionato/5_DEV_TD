@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\47423489824\\Desktop\\5_DEV_TD\\SPRINT - 2 - Testes\\Teste - API\\webapi.testeAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4EB85709-358F-4121-88B0-37884B67BC58}|webapi.testeAPI.csproj|c:\\users\\47423489824\\desktop\\5_dev_td\\sprint - 2 - testes\\teste - api\\webapi.testeapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EB85709-358F-4121-88B0-37884B67BC58}|webapi.testeAPI.csproj|solutionrelative:controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EB85709-358F-4121-88B0-37884B67BC58}|webapi.testeAPI.csproj|c:\\users\\47423489824\\desktop\\5_dev_td\\sprint - 2 - testes\\teste - api\\webapi.testeapi\\repositories\\productrepositories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EB85709-358F-4121-88B0-37884B67BC58}|webapi.testeAPI.csproj|solutionrelative:repositories\\productrepositories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EB85709-358F-4121-88B0-37884B67BC58}|webapi.testeAPI.csproj|c:\\users\\47423489824\\desktop\\5_dev_td\\sprint - 2 - testes\\teste - api\\webapi.testeapi\\interface\\iproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EB85709-358F-4121-88B0-37884B67BC58}|webapi.testeAPI.csproj|solutionrelative:interface\\iproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\47423489824\\Desktop\\5_DEV_TD\\SPRINT - 2 - Testes\\Teste - API\\webapi.testeAPI\\Migrations\\20240805195017_version2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20240805195017_version2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EB85709-358F-4121-88B0-37884B67BC58}|webapi.testeAPI.csproj|c:\\users\\47423489824\\desktop\\5_dev_td\\sprint - 2 - testes\\teste - api\\webapi.testeapi\\context\\testeapicontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EB85709-358F-4121-88B0-37884B67BC58}|webapi.testeAPI.csproj|solutionrelative:context\\testeapicontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\47423489824\\Desktop\\5_DEV_TD\\SPRINT - 2 - Testes\\Teste - API\\webapi.testeAPI\\Migrations\\20240805194741_version1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20240805194741_version1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EB85709-358F-4121-88B0-37884B67BC58}|webapi.testeAPI.csproj|c:\\users\\47423489824\\desktop\\5_dev_td\\sprint - 2 - testes\\teste - api\\webapi.testeapi\\domains\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EB85709-358F-4121-88B0-37884B67BC58}|webapi.testeAPI.csproj|solutionrelative:domains\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\47423489824\\Desktop\\5_DEV_TD\\SPRINT - 2 - Testes\\Teste - API\\webapi.testeAPI\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\47423489824\\Desktop\\5_DEV_TD\\SPRINT - 2 - Testes\\Teste - API\\webapi.testeAPI\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Controllers\\ProductController.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAA1wFgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T19:57:07.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductRepositories.cs",
+              "DocumentMoniker": "C:\\Users\\47423489824\\Desktop\\5_DEV_TD\\SPRINT - 2 - Testes\\Teste - API\\webapi.testeAPI\\Repositories\\ProductRepositories.cs",
+              "RelativeDocumentMoniker": "Repositories\\ProductRepositories.cs",
+              "ToolTip": "C:\\Users\\47423489824\\Desktop\\5_DEV_TD\\SPRINT - 2 - Testes\\Teste - API\\webapi.testeAPI\\Repositories\\ProductRepositories.cs",
+              "RelativeToolTip": "Repositories\\ProductRepositories.cs",
+              "ViewState": "AQIAAEMAAAAAAAAAAAAAAEsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T19:51:59.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IProduct.cs",
+              "DocumentMoniker": "C:\\Users\\47423489824\\Desktop\\5_DEV_TD\\SPRINT - 2 - Testes\\Teste - API\\webapi.testeAPI\\Interface\\IProduct.cs",
+              "RelativeDocumentMoniker": "Interface\\IProduct.cs",
+              "ToolTip": "C:\\Users\\47423489824\\Desktop\\5_DEV_TD\\SPRINT - 2 - Testes\\Teste - API\\webapi.testeAPI\\Interface\\IProduct.cs",
+              "RelativeToolTip": "Interface\\IProduct.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T19:50:53.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20240805195017_version2.cs",
+              "DocumentMoniker": "C:\\Users\\47423489824\\Desktop\\5_DEV_TD\\SPRINT - 2 - Testes\\Teste - API\\webapi.testeAPI\\Migrations\\20240805195017_version2.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240805195017_version2.cs",
+              "ToolTip": "C:\\Users\\47423489824\\Desktop\\5_DEV_TD\\SPRINT - 2 - Testes\\Teste - API\\webapi.testeAPI\\Migrations\\20240805195017_version2.cs",
+              "RelativeToolTip": "Migrations\\20240805195017_version2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T19:50:17.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20240805194741_version1.cs",
+              "DocumentMoniker": "C:\\Users\\47423489824\\Desktop\\5_DEV_TD\\SPRINT - 2 - Testes\\Teste - API\\webapi.testeAPI\\Migrations\\20240805194741_version1.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240805194741_version1.cs",
+              "ToolTip": "C:\\Users\\47423489824\\Desktop\\5_DEV_TD\\SPRINT - 2 - Testes\\Teste - API\\webapi.testeAPI\\Migrations\\20240805194741_version1.cs",
+              "RelativeToolTip": "Migrations\\20240805194741_version1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T19:47:42.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "testeAPIContext.cs",
+              "DocumentMoniker": "C:\\Users\\47423489824\\Desktop\\5_DEV_TD\\SPRINT - 2 - Testes\\Teste - API\\webapi.testeAPI\\Context\\testeAPIContext.cs",
+              "RelativeDocumentMoniker": "Context\\testeAPIContext.cs",
+              "ToolTip": "C:\\Users\\47423489824\\Desktop\\5_DEV_TD\\SPRINT - 2 - Testes\\Teste - API\\webapi.testeAPI\\Context\\testeAPIContext.cs",
+              "RelativeToolTip": "Context\\testeAPIContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T19:46:36.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\47423489824\\Desktop\\5_DEV_TD\\SPRINT - 2 - Testes\\Teste - API\\webapi.testeAPI\\Domains\\Product.cs",
+              "RelativeDocumentMoniker": "Domains\\Product.cs",
+              "ToolTip": "C:\\Users\\47423489824\\Desktop\\5_DEV_TD\\SPRINT - 2 - Testes\\Teste - API\\webapi.testeAPI\\Domains\\Product.cs",
+              "RelativeToolTip": "Domains\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T19:44:53.489Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
