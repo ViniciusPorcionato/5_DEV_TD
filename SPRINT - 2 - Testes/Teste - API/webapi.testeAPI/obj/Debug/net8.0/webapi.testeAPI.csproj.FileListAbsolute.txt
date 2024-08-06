@@ -137,3 +137,5 @@ C:\Users\47423489824\Desktop\5_DEV_TD\SPRINT - 2 - Testes\Teste - API\webapi.tes
 C:\Users\47423489824\Desktop\5_DEV_TD\SPRINT - 2 - Testes\Teste - API\webapi.testeAPI\obj\Debug\net8.0\webapi.testeAPI.pdb
 C:\Users\47423489824\Desktop\5_DEV_TD\SPRINT - 2 - Testes\Teste - API\webapi.testeAPI\obj\Debug\net8.0\webapi.testeAPI.genruntimeconfig.cache
 C:\Users\47423489824\Desktop\5_DEV_TD\SPRINT - 2 - Testes\Teste - API\webapi.testeAPI\obj\Debug\net8.0\ref\webapi.testeAPI.dll
+C:\Users\47423489824\Desktop\5_DEV_TD\SPRINT - 2 - Testes\Teste - API\webapi.testeAPI\bin\Debug\net8.0\Castle.Core.dll
+C:\Users\47423489824\Desktop\5_DEV_TD\SPRINT - 2 - Testes\Teste - API\webapi.testeAPI\bin\Debug\net8.0\Moq.dll
