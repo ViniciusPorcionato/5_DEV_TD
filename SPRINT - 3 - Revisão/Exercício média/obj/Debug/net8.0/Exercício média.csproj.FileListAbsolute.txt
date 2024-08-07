@@ -1,0 +1,15 @@
+C:\Users\47423489824\Desktop\5_DEV_TD\SPRINT - 3 - Revisão\Exercício média\obj\Debug\net8.0\Exercício média.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\47423489824\Desktop\5_DEV_TD\SPRINT - 3 - Revisão\Exercício média\obj\Debug\net8.0\Exercício média.AssemblyInfoInputs.cache
+C:\Users\47423489824\Desktop\5_DEV_TD\SPRINT - 3 - Revisão\Exercício média\obj\Debug\net8.0\Exercício média.AssemblyInfo.cs
+C:\Users\47423489824\Desktop\5_DEV_TD\SPRINT - 3 - Revisão\Exercício média\obj\Debug\net8.0\Exercício média.csproj.CoreCompileInputs.cache
+C:\Users\47423489824\Desktop\5_DEV_TD\SPRINT - 3 - Revisão\Exercício média\obj\Debug\net8.0\Exercício média.sourcelink.json
+C:\Users\47423489824\Desktop\5_DEV_TD\SPRINT - 3 - Revisão\Exercício média\bin\Debug\net8.0\Exercício média.exe
+C:\Users\47423489824\Desktop\5_DEV_TD\SPRINT - 3 - Revisão\Exercício média\bin\Debug\net8.0\Exercício média.deps.json
+C:\Users\47423489824\Desktop\5_DEV_TD\SPRINT - 3 - Revisão\Exercício média\bin\Debug\net8.0\Exercício média.runtimeconfig.json
+C:\Users\47423489824\Desktop\5_DEV_TD\SPRINT - 3 - Revisão\Exercício média\bin\Debug\net8.0\Exercício média.dll
+C:\Users\47423489824\Desktop\5_DEV_TD\SPRINT - 3 - Revisão\Exercício média\bin\Debug\net8.0\Exercício média.pdb
+C:\Users\47423489824\Desktop\5_DEV_TD\SPRINT - 3 - Revisão\Exercício média\obj\Debug\net8.0\Exercício média.dll
+C:\Users\47423489824\Desktop\5_DEV_TD\SPRINT - 3 - Revisão\Exercício média\obj\Debug\net8.0\refint\Exercício média.dll
+C:\Users\47423489824\Desktop\5_DEV_TD\SPRINT - 3 - Revisão\Exercício média\obj\Debug\net8.0\Exercício média.pdb
+C:\Users\47423489824\Desktop\5_DEV_TD\SPRINT - 3 - Revisão\Exercício média\obj\Debug\net8.0\Exercício média.genruntimeconfig.cache
+C:\Users\47423489824\Desktop\5_DEV_TD\SPRINT - 3 - Revisão\Exercício média\obj\Debug\net8.0\ref\Exercício média.dll
