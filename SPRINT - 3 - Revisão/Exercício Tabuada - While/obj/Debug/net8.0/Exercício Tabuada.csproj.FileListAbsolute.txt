@@ -1,0 +1,15 @@
+C:\Users\47423489824\Desktop\5_DEV_TD\SPRINT - 3 - Revisão\Exercício Tabuada\bin\Debug\net8.0\Exercício Tabuada.exe
+C:\Users\47423489824\Desktop\5_DEV_TD\SPRINT - 3 - Revisão\Exercício Tabuada\bin\Debug\net8.0\Exercício Tabuada.deps.json
+C:\Users\47423489824\Desktop\5_DEV_TD\SPRINT - 3 - Revisão\Exercício Tabuada\bin\Debug\net8.0\Exercício Tabuada.runtimeconfig.json
+C:\Users\47423489824\Desktop\5_DEV_TD\SPRINT - 3 - Revisão\Exercício Tabuada\bin\Debug\net8.0\Exercício Tabuada.dll
+C:\Users\47423489824\Desktop\5_DEV_TD\SPRINT - 3 - Revisão\Exercício Tabuada\bin\Debug\net8.0\Exercício Tabuada.pdb
+C:\Users\47423489824\Desktop\5_DEV_TD\SPRINT - 3 - Revisão\Exercício Tabuada\obj\Debug\net8.0\Exercício Tabuada.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\47423489824\Desktop\5_DEV_TD\SPRINT - 3 - Revisão\Exercício Tabuada\obj\Debug\net8.0\Exercício Tabuada.AssemblyInfoInputs.cache
+C:\Users\47423489824\Desktop\5_DEV_TD\SPRINT - 3 - Revisão\Exercício Tabuada\obj\Debug\net8.0\Exercício Tabuada.AssemblyInfo.cs
+C:\Users\47423489824\Desktop\5_DEV_TD\SPRINT - 3 - Revisão\Exercício Tabuada\obj\Debug\net8.0\Exercício Tabuada.csproj.CoreCompileInputs.cache
+C:\Users\47423489824\Desktop\5_DEV_TD\SPRINT - 3 - Revisão\Exercício Tabuada\obj\Debug\net8.0\Exercício Tabuada.sourcelink.json
+C:\Users\47423489824\Desktop\5_DEV_TD\SPRINT - 3 - Revisão\Exercício Tabuada\obj\Debug\net8.0\Exercício Tabuada.dll
+C:\Users\47423489824\Desktop\5_DEV_TD\SPRINT - 3 - Revisão\Exercício Tabuada\obj\Debug\net8.0\refint\Exercício Tabuada.dll
+C:\Users\47423489824\Desktop\5_DEV_TD\SPRINT - 3 - Revisão\Exercício Tabuada\obj\Debug\net8.0\Exercício Tabuada.pdb
+C:\Users\47423489824\Desktop\5_DEV_TD\SPRINT - 3 - Revisão\Exercício Tabuada\obj\Debug\net8.0\Exercício Tabuada.genruntimeconfig.cache
+C:\Users\47423489824\Desktop\5_DEV_TD\SPRINT - 3 - Revisão\Exercício Tabuada\obj\Debug\net8.0\ref\Exercício Tabuada.dll

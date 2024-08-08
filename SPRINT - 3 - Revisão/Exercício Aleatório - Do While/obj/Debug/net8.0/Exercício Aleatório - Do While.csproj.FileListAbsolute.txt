@@ -1,0 +1,15 @@
+C:\Users\47423489824\Desktop\5_DEV_TD\SPRINT - 3 - Revisão\Exercício Aleatório - Do While\bin\Debug\net8.0\Exercício Aleatório - Do While.exe
+C:\Users\47423489824\Desktop\5_DEV_TD\SPRINT - 3 - Revisão\Exercício Aleatório - Do While\bin\Debug\net8.0\Exercício Aleatório - Do While.deps.json
+C:\Users\47423489824\Desktop\5_DEV_TD\SPRINT - 3 - Revisão\Exercício Aleatório - Do While\bin\Debug\net8.0\Exercício Aleatório - Do While.runtimeconfig.json
+C:\Users\47423489824\Desktop\5_DEV_TD\SPRINT - 3 - Revisão\Exercício Aleatório - Do While\bin\Debug\net8.0\Exercício Aleatório - Do While.dll
+C:\Users\47423489824\Desktop\5_DEV_TD\SPRINT - 3 - Revisão\Exercício Aleatório - Do While\bin\Debug\net8.0\Exercício Aleatório - Do While.pdb
+C:\Users\47423489824\Desktop\5_DEV_TD\SPRINT - 3 - Revisão\Exercício Aleatório - Do While\obj\Debug\net8.0\Exercício Aleatório - Do While.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\47423489824\Desktop\5_DEV_TD\SPRINT - 3 - Revisão\Exercício Aleatório - Do While\obj\Debug\net8.0\Exercício Aleatório - Do While.AssemblyInfoInputs.cache
+C:\Users\47423489824\Desktop\5_DEV_TD\SPRINT - 3 - Revisão\Exercício Aleatório - Do While\obj\Debug\net8.0\Exercício Aleatório - Do While.AssemblyInfo.cs
+C:\Users\47423489824\Desktop\5_DEV_TD\SPRINT - 3 - Revisão\Exercício Aleatório - Do While\obj\Debug\net8.0\Exercício Aleatório - Do While.csproj.CoreCompileInputs.cache
+C:\Users\47423489824\Desktop\5_DEV_TD\SPRINT - 3 - Revisão\Exercício Aleatório - Do While\obj\Debug\net8.0\Exercício Aleatório - Do While.sourcelink.json
+C:\Users\47423489824\Desktop\5_DEV_TD\SPRINT - 3 - Revisão\Exercício Aleatório - Do While\obj\Debug\net8.0\Exercício Aleatório - Do While.dll
+C:\Users\47423489824\Desktop\5_DEV_TD\SPRINT - 3 - Revisão\Exercício Aleatório - Do While\obj\Debug\net8.0\refint\Exercício Aleatório - Do While.dll
+C:\Users\47423489824\Desktop\5_DEV_TD\SPRINT - 3 - Revisão\Exercício Aleatório - Do While\obj\Debug\net8.0\Exercício Aleatório - Do While.pdb
+C:\Users\47423489824\Desktop\5_DEV_TD\SPRINT - 3 - Revisão\Exercício Aleatório - Do While\obj\Debug\net8.0\Exercício Aleatório - Do While.genruntimeconfig.cache
+C:\Users\47423489824\Desktop\5_DEV_TD\SPRINT - 3 - Revisão\Exercício Aleatório - Do While\obj\Debug\net8.0\ref\Exercício Aleatório - Do While.dll

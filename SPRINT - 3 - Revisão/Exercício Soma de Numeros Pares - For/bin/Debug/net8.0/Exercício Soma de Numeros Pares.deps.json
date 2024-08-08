@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Exercício Soma de Numeros Pares/1.0.0": {
+        "runtime": {
+          "Exercício Soma de Numeros Pares.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Exercício Soma de Numeros Pares/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

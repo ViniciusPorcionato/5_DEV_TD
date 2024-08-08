@@ -1,0 +1,15 @@
+C:\Users\47423489824\Desktop\5_DEV_TD\SPRINT - 3 - Revisão\Exercício Soma de Numeros Pares\bin\Debug\net8.0\Exercício Soma de Numeros Pares.exe
+C:\Users\47423489824\Desktop\5_DEV_TD\SPRINT - 3 - Revisão\Exercício Soma de Numeros Pares\bin\Debug\net8.0\Exercício Soma de Numeros Pares.deps.json
+C:\Users\47423489824\Desktop\5_DEV_TD\SPRINT - 3 - Revisão\Exercício Soma de Numeros Pares\bin\Debug\net8.0\Exercício Soma de Numeros Pares.runtimeconfig.json
+C:\Users\47423489824\Desktop\5_DEV_TD\SPRINT - 3 - Revisão\Exercício Soma de Numeros Pares\bin\Debug\net8.0\Exercício Soma de Numeros Pares.dll
+C:\Users\47423489824\Desktop\5_DEV_TD\SPRINT - 3 - Revisão\Exercício Soma de Numeros Pares\bin\Debug\net8.0\Exercício Soma de Numeros Pares.pdb
+C:\Users\47423489824\Desktop\5_DEV_TD\SPRINT - 3 - Revisão\Exercício Soma de Numeros Pares\obj\Debug\net8.0\Exercício Soma de Numeros Pares.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\47423489824\Desktop\5_DEV_TD\SPRINT - 3 - Revisão\Exercício Soma de Numeros Pares\obj\Debug\net8.0\Exercício Soma de Numeros Pares.AssemblyInfoInputs.cache
+C:\Users\47423489824\Desktop\5_DEV_TD\SPRINT - 3 - Revisão\Exercício Soma de Numeros Pares\obj\Debug\net8.0\Exercício Soma de Numeros Pares.AssemblyInfo.cs
+C:\Users\47423489824\Desktop\5_DEV_TD\SPRINT - 3 - Revisão\Exercício Soma de Numeros Pares\obj\Debug\net8.0\Exercício Soma de Numeros Pares.csproj.CoreCompileInputs.cache
+C:\Users\47423489824\Desktop\5_DEV_TD\SPRINT - 3 - Revisão\Exercício Soma de Numeros Pares\obj\Debug\net8.0\Exercício Soma de Numeros Pares.sourcelink.json
+C:\Users\47423489824\Desktop\5_DEV_TD\SPRINT - 3 - Revisão\Exercício Soma de Numeros Pares\obj\Debug\net8.0\Exercício Soma de Numeros Pares.dll
+C:\Users\47423489824\Desktop\5_DEV_TD\SPRINT - 3 - Revisão\Exercício Soma de Numeros Pares\obj\Debug\net8.0\refint\Exercício Soma de Numeros Pares.dll
+C:\Users\47423489824\Desktop\5_DEV_TD\SPRINT - 3 - Revisão\Exercício Soma de Numeros Pares\obj\Debug\net8.0\Exercício Soma de Numeros Pares.pdb
+C:\Users\47423489824\Desktop\5_DEV_TD\SPRINT - 3 - Revisão\Exercício Soma de Numeros Pares\obj\Debug\net8.0\Exercício Soma de Numeros Pares.genruntimeconfig.cache
+C:\Users\47423489824\Desktop\5_DEV_TD\SPRINT - 3 - Revisão\Exercício Soma de Numeros Pares\obj\Debug\net8.0\ref\Exercício Soma de Numeros Pares.dll
