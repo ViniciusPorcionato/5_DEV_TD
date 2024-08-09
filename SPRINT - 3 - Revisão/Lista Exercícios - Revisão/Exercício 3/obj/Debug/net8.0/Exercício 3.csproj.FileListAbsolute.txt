@@ -1,0 +1,15 @@
+C:\Users\47423489824\Desktop\5_DEV_TD\SPRINT - 3 - Revisão\Lista Exercícios - Revisão\Exercício 3\bin\Debug\net8.0\Exercício 3.exe
+C:\Users\47423489824\Desktop\5_DEV_TD\SPRINT - 3 - Revisão\Lista Exercícios - Revisão\Exercício 3\bin\Debug\net8.0\Exercício 3.deps.json
+C:\Users\47423489824\Desktop\5_DEV_TD\SPRINT - 3 - Revisão\Lista Exercícios - Revisão\Exercício 3\bin\Debug\net8.0\Exercício 3.runtimeconfig.json
+C:\Users\47423489824\Desktop\5_DEV_TD\SPRINT - 3 - Revisão\Lista Exercícios - Revisão\Exercício 3\bin\Debug\net8.0\Exercício 3.dll
+C:\Users\47423489824\Desktop\5_DEV_TD\SPRINT - 3 - Revisão\Lista Exercícios - Revisão\Exercício 3\bin\Debug\net8.0\Exercício 3.pdb
+C:\Users\47423489824\Desktop\5_DEV_TD\SPRINT - 3 - Revisão\Lista Exercícios - Revisão\Exercício 3\obj\Debug\net8.0\Exercício 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\47423489824\Desktop\5_DEV_TD\SPRINT - 3 - Revisão\Lista Exercícios - Revisão\Exercício 3\obj\Debug\net8.0\Exercício 3.AssemblyInfoInputs.cache
+C:\Users\47423489824\Desktop\5_DEV_TD\SPRINT - 3 - Revisão\Lista Exercícios - Revisão\Exercício 3\obj\Debug\net8.0\Exercício 3.AssemblyInfo.cs
+C:\Users\47423489824\Desktop\5_DEV_TD\SPRINT - 3 - Revisão\Lista Exercícios - Revisão\Exercício 3\obj\Debug\net8.0\Exercício 3.csproj.CoreCompileInputs.cache
+C:\Users\47423489824\Desktop\5_DEV_TD\SPRINT - 3 - Revisão\Lista Exercícios - Revisão\Exercício 3\obj\Debug\net8.0\Exercício 3.sourcelink.json
+C:\Users\47423489824\Desktop\5_DEV_TD\SPRINT - 3 - Revisão\Lista Exercícios - Revisão\Exercício 3\obj\Debug\net8.0\Exercício 3.dll
+C:\Users\47423489824\Desktop\5_DEV_TD\SPRINT - 3 - Revisão\Lista Exercícios - Revisão\Exercício 3\obj\Debug\net8.0\refint\Exercício 3.dll
+C:\Users\47423489824\Desktop\5_DEV_TD\SPRINT - 3 - Revisão\Lista Exercícios - Revisão\Exercício 3\obj\Debug\net8.0\Exercício 3.pdb
+C:\Users\47423489824\Desktop\5_DEV_TD\SPRINT - 3 - Revisão\Lista Exercícios - Revisão\Exercício 3\obj\Debug\net8.0\Exercício 3.genruntimeconfig.cache
+C:\Users\47423489824\Desktop\5_DEV_TD\SPRINT - 3 - Revisão\Lista Exercícios - Revisão\Exercício 3\obj\Debug\net8.0\ref\Exercício 3.dll

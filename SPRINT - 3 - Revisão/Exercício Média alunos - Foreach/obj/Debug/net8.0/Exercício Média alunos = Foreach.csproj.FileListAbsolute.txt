@@ -1,0 +1,15 @@
+C:\Users\47423489824\Desktop\5_DEV_TD\SPRINT - 3 - Revisão\Exercício Média alunos - Foreach\bin\Debug\net8.0\Exercício Média alunos = Foreach.exe
+C:\Users\47423489824\Desktop\5_DEV_TD\SPRINT - 3 - Revisão\Exercício Média alunos - Foreach\bin\Debug\net8.0\Exercício Média alunos = Foreach.deps.json
+C:\Users\47423489824\Desktop\5_DEV_TD\SPRINT - 3 - Revisão\Exercício Média alunos - Foreach\bin\Debug\net8.0\Exercício Média alunos = Foreach.runtimeconfig.json
+C:\Users\47423489824\Desktop\5_DEV_TD\SPRINT - 3 - Revisão\Exercício Média alunos - Foreach\bin\Debug\net8.0\Exercício Média alunos = Foreach.dll
+C:\Users\47423489824\Desktop\5_DEV_TD\SPRINT - 3 - Revisão\Exercício Média alunos - Foreach\bin\Debug\net8.0\Exercício Média alunos = Foreach.pdb
+C:\Users\47423489824\Desktop\5_DEV_TD\SPRINT - 3 - Revisão\Exercício Média alunos - Foreach\obj\Debug\net8.0\Exercício Média alunos = Foreach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\47423489824\Desktop\5_DEV_TD\SPRINT - 3 - Revisão\Exercício Média alunos - Foreach\obj\Debug\net8.0\Exercício Média alunos = Foreach.AssemblyInfoInputs.cache
+C:\Users\47423489824\Desktop\5_DEV_TD\SPRINT - 3 - Revisão\Exercício Média alunos - Foreach\obj\Debug\net8.0\Exercício Média alunos = Foreach.AssemblyInfo.cs
+C:\Users\47423489824\Desktop\5_DEV_TD\SPRINT - 3 - Revisão\Exercício Média alunos - Foreach\obj\Debug\net8.0\Exercício Média alunos = Foreach.csproj.CoreCompileInputs.cache
+C:\Users\47423489824\Desktop\5_DEV_TD\SPRINT - 3 - Revisão\Exercício Média alunos - Foreach\obj\Debug\net8.0\Exercício Média alunos = Foreach.sourcelink.json
+C:\Users\47423489824\Desktop\5_DEV_TD\SPRINT - 3 - Revisão\Exercício Média alunos - Foreach\obj\Debug\net8.0\Exercício Média alunos = Foreach.dll
+C:\Users\47423489824\Desktop\5_DEV_TD\SPRINT - 3 - Revisão\Exercício Média alunos - Foreach\obj\Debug\net8.0\refint\Exercício Média alunos = Foreach.dll
+C:\Users\47423489824\Desktop\5_DEV_TD\SPRINT - 3 - Revisão\Exercício Média alunos - Foreach\obj\Debug\net8.0\Exercício Média alunos = Foreach.pdb
+C:\Users\47423489824\Desktop\5_DEV_TD\SPRINT - 3 - Revisão\Exercício Média alunos - Foreach\obj\Debug\net8.0\Exercício Média alunos = Foreach.genruntimeconfig.cache
+C:\Users\47423489824\Desktop\5_DEV_TD\SPRINT - 3 - Revisão\Exercício Média alunos - Foreach\obj\Debug\net8.0\ref\Exercício Média alunos = Foreach.dll
