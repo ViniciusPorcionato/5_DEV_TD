@@ -1,0 +1,15 @@
+C:\Users\porci\OneDrive\Área de Trabalho\5_DEV_TD\SPRINT - 3 - Revisão\Lista Exercícios - Revisão\Exercício 5\bin\Debug\net8.0\Exercício 5.exe
+C:\Users\porci\OneDrive\Área de Trabalho\5_DEV_TD\SPRINT - 3 - Revisão\Lista Exercícios - Revisão\Exercício 5\bin\Debug\net8.0\Exercício 5.deps.json
+C:\Users\porci\OneDrive\Área de Trabalho\5_DEV_TD\SPRINT - 3 - Revisão\Lista Exercícios - Revisão\Exercício 5\bin\Debug\net8.0\Exercício 5.runtimeconfig.json
+C:\Users\porci\OneDrive\Área de Trabalho\5_DEV_TD\SPRINT - 3 - Revisão\Lista Exercícios - Revisão\Exercício 5\bin\Debug\net8.0\Exercício 5.dll
+C:\Users\porci\OneDrive\Área de Trabalho\5_DEV_TD\SPRINT - 3 - Revisão\Lista Exercícios - Revisão\Exercício 5\bin\Debug\net8.0\Exercício 5.pdb
+C:\Users\porci\OneDrive\Área de Trabalho\5_DEV_TD\SPRINT - 3 - Revisão\Lista Exercícios - Revisão\Exercício 5\obj\Debug\net8.0\Exercício 5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\porci\OneDrive\Área de Trabalho\5_DEV_TD\SPRINT - 3 - Revisão\Lista Exercícios - Revisão\Exercício 5\obj\Debug\net8.0\Exercício 5.AssemblyInfoInputs.cache
+C:\Users\porci\OneDrive\Área de Trabalho\5_DEV_TD\SPRINT - 3 - Revisão\Lista Exercícios - Revisão\Exercício 5\obj\Debug\net8.0\Exercício 5.AssemblyInfo.cs
+C:\Users\porci\OneDrive\Área de Trabalho\5_DEV_TD\SPRINT - 3 - Revisão\Lista Exercícios - Revisão\Exercício 5\obj\Debug\net8.0\Exercício 5.csproj.CoreCompileInputs.cache
+C:\Users\porci\OneDrive\Área de Trabalho\5_DEV_TD\SPRINT - 3 - Revisão\Lista Exercícios - Revisão\Exercício 5\obj\Debug\net8.0\Exercício 5.sourcelink.json
+C:\Users\porci\OneDrive\Área de Trabalho\5_DEV_TD\SPRINT - 3 - Revisão\Lista Exercícios - Revisão\Exercício 5\obj\Debug\net8.0\Exercício 5.dll
+C:\Users\porci\OneDrive\Área de Trabalho\5_DEV_TD\SPRINT - 3 - Revisão\Lista Exercícios - Revisão\Exercício 5\obj\Debug\net8.0\refint\Exercício 5.dll
+C:\Users\porci\OneDrive\Área de Trabalho\5_DEV_TD\SPRINT - 3 - Revisão\Lista Exercícios - Revisão\Exercício 5\obj\Debug\net8.0\Exercício 5.pdb
+C:\Users\porci\OneDrive\Área de Trabalho\5_DEV_TD\SPRINT - 3 - Revisão\Lista Exercícios - Revisão\Exercício 5\obj\Debug\net8.0\Exercício 5.genruntimeconfig.cache
+C:\Users\porci\OneDrive\Área de Trabalho\5_DEV_TD\SPRINT - 3 - Revisão\Lista Exercícios - Revisão\Exercício 5\obj\Debug\net8.0\ref\Exercício 5.dll
