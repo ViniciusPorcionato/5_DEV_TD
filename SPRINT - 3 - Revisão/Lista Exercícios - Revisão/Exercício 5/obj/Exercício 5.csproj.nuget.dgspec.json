@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\47423489824\\Desktop\\5_DEV_TD\\SPRINT - 3 - Revisão\\Lista Exercícios - Revisão\\Exercício 5\\Exercício 5.csproj": {}
+    "C:\\Users\\porci\\OneDrive\\Área de Trabalho\\5_DEV_TD\\SPRINT - 3 - Revisão\\Lista Exercícios - Revisão\\Exercício 5\\Exercício 5.csproj": {}
   },
   "projects": {
-    "C:\\Users\\47423489824\\Desktop\\5_DEV_TD\\SPRINT - 3 - Revisão\\Lista Exercícios - Revisão\\Exercício 5\\Exercício 5.csproj": {
+    "C:\\Users\\porci\\OneDrive\\Área de Trabalho\\5_DEV_TD\\SPRINT - 3 - Revisão\\Lista Exercícios - Revisão\\Exercício 5\\Exercício 5.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\47423489824\\Desktop\\5_DEV_TD\\SPRINT - 3 - Revisão\\Lista Exercícios - Revisão\\Exercício 5\\Exercício 5.csproj",
+        "projectUniqueName": "C:\\Users\\porci\\OneDrive\\Área de Trabalho\\5_DEV_TD\\SPRINT - 3 - Revisão\\Lista Exercícios - Revisão\\Exercício 5\\Exercício 5.csproj",
         "projectName": "Exercício 5",
-        "projectPath": "C:\\Users\\47423489824\\Desktop\\5_DEV_TD\\SPRINT - 3 - Revisão\\Lista Exercícios - Revisão\\Exercício 5\\Exercício 5.csproj",
-        "packagesPath": "C:\\Users\\47423489824\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\47423489824\\Desktop\\5_DEV_TD\\SPRINT - 3 - Revisão\\Lista Exercícios - Revisão\\Exercício 5\\obj\\",
+        "projectPath": "C:\\Users\\porci\\OneDrive\\Área de Trabalho\\5_DEV_TD\\SPRINT - 3 - Revisão\\Lista Exercícios - Revisão\\Exercício 5\\Exercício 5.csproj",
+        "packagesPath": "C:\\Users\\porci\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\porci\\OneDrive\\Área de Trabalho\\5_DEV_TD\\SPRINT - 3 - Revisão\\Lista Exercícios - Revisão\\Exercício 5\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\47423489824\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\porci\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,7 +26,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -65,7 +64,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
