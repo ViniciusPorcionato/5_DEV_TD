@@ -1,0 +1,10 @@
+@font-face {
+    font-family: Open-Sans;
+    src: url(../../assets/Fonts/Open_Sans/OpenSans-VariableFont_wdth\,wght.ttf);
+}
+
+.title{
+    font-family: Open-Sans;
+    font-size: 25px;
+    padding-top: 20px;
+}

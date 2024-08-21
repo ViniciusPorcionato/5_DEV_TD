@@ -1,0 +1,11 @@
+.send-button{
+    width: 200px;
+    height: 40px;
+    border: 2px solid white;
+    background-color: #6C45CE;
+    color: white;
+    border-radius: 10px;
+    margin-top: 10px;
+    margin-left: 540px;
+    font-size: 18px;
+}

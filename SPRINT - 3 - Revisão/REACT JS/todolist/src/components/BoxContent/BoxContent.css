@@ -1,0 +1,8 @@
+.box-content{
+    background-color: #1E123B;
+    width: 743.81px;
+    height: 495.36px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
