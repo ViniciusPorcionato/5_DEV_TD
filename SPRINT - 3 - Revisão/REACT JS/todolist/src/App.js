@@ -14,6 +14,12 @@ function App() {
 
   const [showModal, setShowModal] = useState(false);
 
+  //função para abrir o modal
+  const openModal = () => setShowModal(true)
+  //função para fechar o modal
+  const closeModal = () => setShowModal(false)
+
+  //state para o array as tarefas
   const [tasks, setTasks] = useState([]);
 
   const handleAddTask = (description) => {
@@ -33,9 +39,14 @@ function App() {
 
       </BoxContent>
 
-      <SendButton text={'Enviar Tarefa'} onclick={() => setShowModal(true)}/>
 
-        {showModal ? <ModalTask addTask={handleAddTask} closeModal={() => setShowModal(false)}/> : <></>}
+      <SendButton text={'Enviar Tarefa'} onclick={openModal}/>
+
+        {
+          showModal && (
+              <ModalTask openModal={showModal} addTask={handleAddTask} closeModal={closeModal}/>
+          )
+        }
 
 
      </MainContent>

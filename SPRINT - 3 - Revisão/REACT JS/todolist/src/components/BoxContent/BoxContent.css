@@ -1,8 +1,9 @@
 .box-content{
     background-color: #1E123B;
-    width: 70%;
+    width: 60%;
     height: 495.36px;
     display: flex;
     align-items: center;
     flex-direction: column;
+    border-radius: 10px;
 }

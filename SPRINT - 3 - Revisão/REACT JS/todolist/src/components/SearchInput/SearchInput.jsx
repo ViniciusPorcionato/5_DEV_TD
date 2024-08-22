@@ -6,7 +6,7 @@ export const SearchInput = ({typeInput, placeholder, value, onChange}) => {
     return(
         <div className="searchInput">
             <IoIosSearch color="white" fontSize={20}/>
-            <input onChange={(x) => onChange(x.target.value)} className="input" type={typeInput} placeholder={placeholder} value={value}></input>
+            <input  className="input" type={typeInput} placeholder={placeholder} value={value}></input>
         </div>
     )
 }
