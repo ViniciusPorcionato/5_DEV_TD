@@ -1,13 +1,12 @@
-.inputDescription{
-    width: 577px;
+.input-description{
+    width: 70%;
     height: 177px;
-    border: 2px solid #FCFCFC;
+    font-size: 17px;
     background-color: transparent;
-    color: white;
+    border-radius: 4px;
+    border: 1px solid #fcfcfc;
+    color: #FCFCFC;
+    outline: none;
     text-align: start;
-    padding: 10px;
+    padding-left: 20px;
 }
-
-::-webkit-input-placeholder { /* Chrome, Firefox, Opera, Safari */
-    color: white;
- }

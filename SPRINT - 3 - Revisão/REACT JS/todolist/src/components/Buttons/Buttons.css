@@ -1,0 +1,53 @@
+.send-button{
+    width: 200px;
+    height: 40px;
+    border: 2px solid white;
+    background-color: #6C45CE;
+    color: white;
+    border-radius: 10px;
+    font-size: 18px;
+    margin-bottom: 50px;
+    position: absolute;
+    top: 600px;
+    left: 950px;
+    cursor: pointer;
+}
+
+.send-button:hover{
+    background-color: #5f31d1;
+}
+
+
+.buttonConfirm{
+    width: 322px;
+    height: 64px;
+    background-color: #6C45CE;
+    color: white;
+    border: 2px solid white;
+    font-size: 23px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    cursor: pointer;
+}
+
+.buttonConfirm:hover{
+    background-color: #5f31d1;
+}
+
+.button-delete{
+    width: 34px;
+    border: 1px solid #1E123B;
+    height: 34px;
+    padding-top: 2px;
+    border-radius: 8px;
+    background-color: transparent;
+}
+
+.button-edit{
+    width: 34px;
+    height: 34px;
+    border-radius: 8px;
+    padding-top: 2px;
+    background-color: transparent;
+    border: 1px solid #1E123B;
+}
