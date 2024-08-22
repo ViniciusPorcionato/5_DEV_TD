@@ -1,0 +1,13 @@
+.inputDescription{
+    width: 577px;
+    height: 177px;
+    border: 2px solid #FCFCFC;
+    background-color: transparent;
+    color: white;
+    text-align: start;
+    padding: 10px;
+}
+
+::-webkit-input-placeholder { /* Chrome, Firefox, Opera, Safari */
+    color: white;
+ }

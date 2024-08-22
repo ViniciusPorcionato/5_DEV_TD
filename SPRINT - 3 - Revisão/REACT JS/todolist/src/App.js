@@ -6,8 +6,19 @@ import Title from './components/Title/Title';
 import moment from 'moment';
 import { SearchInput } from './components/SearchInput/SearchInput';
 import { SendButton } from './components/ButtonSend/SendButton';
+import { useState } from 'react';
+import { Modaltask } from './components/Modal/Modal';
 
 function App() {
+
+  const[modalIsOpen, setModalIsOpen] = useState(false)
+
+  function OpenModal() {
+    setModalIsOpen(true)
+  }
+  function CloseModal() {
+    setModalIsOpen(false)
+  }
 
   const now = moment();
 
@@ -20,11 +31,15 @@ function App() {
           <Title titleText={moment().format('Do')} color='#FCFCFC'/>
         </div> */}
           <Title titleText={moment().format('dddd, MMMM Do')} color='#FCFCFC'/>
-          <SearchInput placeholder={'Procurar tarefa'}/>
+          <SearchInput placeholder={'Procurar tarefa'} typeInput={'search'}/>
       </BoxContent>
-      <SendButton text={'Enviar Tarefa'}/>
+      <SendButton text={'Enviar Tarefa'} onclick={OpenModal()}/>
      </MainContent>
   );
 }
+
+<Modaltask
+isOpen={modalIsOpen}
+/>
 
 export default App;
