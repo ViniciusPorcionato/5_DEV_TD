@@ -11,7 +11,7 @@ import { Modaltask } from './components/Modal/Modal';
 
 function App() {
 
-  const[modalIsOpen, setModalIsOpen] = useState(false)
+  const [showModal, setShowModal] = useState(false);
 
   function OpenModal() {
     setModalIsOpen(true)
