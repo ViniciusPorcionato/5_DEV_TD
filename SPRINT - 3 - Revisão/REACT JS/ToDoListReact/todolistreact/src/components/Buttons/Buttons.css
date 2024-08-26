@@ -1,0 +1,54 @@
+
+.task-button {
+    color: #fcfcfc;
+    border: 2px solid #fcfcfc;
+    border-radius: 8px;
+    width: 200px;
+    height: 50px;
+    background-color: transparent;
+    margin-top: 10px;
+    cursor: pointer;
+}
+
+.task-button:hover {
+    background-color:#fcfcfc;
+    color: #1E123B;
+}
+
+.confirm-button {
+    color: #fcfcfc;
+    border: 2px solid #fcfcfc;
+    border-radius: 8px;
+    width: 200px;
+    height: 50px;
+    background-color: #6C45CE;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    cursor: pointer;
+}
+
+.delete-button {
+    width: 34px;
+    height: 34px;
+    border: 1px solid #1E123B;
+    border-radius: 8px;
+    background-color: transparent;
+    padding-top: 2px;
+}
+
+.update-button {
+    width: 34px;
+    height: 34px;
+    border: 1px solid #1E123B;
+    border-radius: 8px;
+    background-color: transparent;
+    padding-top: 3px;
+}
+
+.update-button:hover {
+    background-color: #6C45CE;
+}
+
+.delete-button:hover {
+    background-color: #6C45CE;
+}

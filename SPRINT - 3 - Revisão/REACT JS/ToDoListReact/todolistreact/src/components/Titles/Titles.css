@@ -1,0 +1,27 @@
+
+.main-title {
+    font-family: "Open Sans";
+    font-weight: 700; 
+    font-size: 25px;
+    line-height: 34px;
+    color: white;
+    width: 400px;
+    margin-top: 45px;
+    text-align: center;
+}
+
+.span-day {
+    font-size: 25px;
+    color: #8758FF;
+    font-family: "Open Sans";
+}
+
+.modal-text {
+    font-size: 25px;
+    line-height: 34px;
+    color: white;
+    margin-top: 10px;
+    margin-bottom: 25px;
+    text-align: center;
+    font-family: "Open Sans";
+}

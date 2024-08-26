@@ -1,0 +1,60 @@
+
+.checklist {
+    list-style-type: none;
+    padding: 0;
+}
+
+.task {
+    display: flex;
+    background-color: white;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 10px;
+
+    border-radius: 8px;
+    width: 650px;
+    height: 60px;
+  }
+
+  .task-complete {
+    display: flex;
+    background-color: #6C45CE;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 10px;
+
+    border-radius: 8px;
+    width: 650px;
+    height: 60px;
+  }
+
+  .container-button {
+    display: flex;
+    gap: 5px;
+    align-items: flex-end;
+    justify-content: flex-end;
+    margin-right: 15px;
+  }
+
+  .container-input-desc {
+    display: flex;
+    gap: 12px;
+    font-family: "Open Sans";
+    margin-left: 15px;
+  }
+
+  .description-task {
+    font-size: 21px;
+    font-weight: 500;
+    font-family: "Open Sans";
+    color: #fcfcfc;
+  }
+
+  .description-task-complete {
+    font-size: 21px;
+    font-family: "Open Sans";
+    font-weight: 500;
+    color: #25282C;
+  }
+
+
