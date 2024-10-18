@@ -1,0 +1,108 @@
+﻿@{
+    ViewData["Title"] = "Principal";
+}
+
+@if (ViewBag.NomeProfessor == null)
+{
+    <a asp-controller="Login">Login</a>
+}
+else
+{
+    @* Cadastrar Turma *@
+    <div class="d-flex justify-content-end">
+        <button type="submit" class="btn btn-outline-primary border-2 mt-5" data-bs-toggle="modal" data-bs-target="#cadastrarTurma">Cadastrar Turma</button>
+    </div>
+
+    <h2>Sua Lista de Turmas</h2>
+
+    @* Tabela *@
+    <table class="W-100 table mt-5">
+        <thead class="thead-light">
+            <tr>
+                <th>Número</th>
+                <th>Nome da Turma</th>
+                <th>Ações</th>
+            </tr>
+        </thead>
+
+        <tbody>
+            @foreach (var turma in Model)
+            {
+
+
+                <tr>
+                    <td>@turma.TurmaId</td><!-- Exibe o ID da turma -->
+                    <td>@turma.Nome</td><!-- Exibe o nome da turma -->
+                    <td>
+                        <div class="d-flex gap-3">
+
+                            @{
+                                var name = "deletarTurma" + turma.TurmaId; // Gera um identificador único para o modal de exclusão baseado no ID da turma
+                            }
+
+                            <!-- Botão para abrir o modal de exclusão -->
+                            <button type="submit" class="text-danger bg-transparent border-0 btn-link bg-white" data-bs-toggle="modal" data-bs-target="#@name">
+                                Excluir
+                            </button>
+
+                            <!-- Formulário para redirecionar à página de visualização das atividades da turma -->
+                            <form asp-controller="Atividades" asp-action="Index" asp-route-turmaId="@turma.TurmaId">
+                                <input type="hidden" name="turmaId" value="@turma.TurmaId" />
+                                <button class="text-success border-0 btn-link bg-white" type="submit">Visualizar</button>
+                            </form>
+                        </div>
+                    </td>
+                </tr>
+
+                @* Modal Deletar *@
+                <div class="modal" tabindex="-1" id="@name">
+                    <div class="modal-dialog">
+                        <div class="modal-content">
+                            <div class="modal-header">
+                                <h5 class="modal-title">Deseja excluir turma ?</h5>
+                                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                            </div>
+                            <form asp-controller="Professor" asp-action="DeletarTurma">
+                            <div class="modal-footer">
+                                <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Cancelar</button>
+                                    <input type="hidden" name="turmaId" value="@turma.TurmaId" />
+                                <button type="submit" class="btn btn-primary">Confirmar</button>
+                            </div>
+                            </form>
+                        </div>
+                    </div>
+                </div>
+
+            }
+        </tbody>
+    </table>
+
+    @if (TempData["Mensagem"] != null)
+    {
+        <p style="color:red">@TempData["Mensagem"]</p>
+    }
+
+    @* Modal cadastrar *@
+    <div class="modal" tabindex="-1" id="cadastrarTurma">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h2 class="modal-title">Cadastrar Turma</h2>
+                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                </div>
+
+                <form asp-controller="Professor" asp-action="CadastrarTurma">
+                    <div class="modal-body">
+                        <label class="form-label">Nome da turma</label>
+                        <input type="text" name="nomeTurma" class="form-control" placeholder="Nome" required />
+                    </div>
+                    <div class="modal-footer">
+                        <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Cancelar</button>
+                        <button type="submit" class="btn btn-primary">Confirmar</button>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+
+}

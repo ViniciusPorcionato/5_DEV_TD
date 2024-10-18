@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\47423489824\\Desktop\\5_DEV_TD\\SPRINT - 5 - Projetos\\SistemaEscolar\\ViniciusPorcionato\\sistema\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A0629BF1-DBEB-467C-A39B-61F2755F1798}|sistema.csproj|c:\\users\\47423489824\\desktop\\5_dev_td\\sprint - 5 - projetos\\sistemaescolar\\viniciusporcionato\\sistema\\controllers\\atividadescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0629BF1-DBEB-467C-A39B-61F2755F1798}|sistema.csproj|solutionrelative:controllers\\atividadescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0629BF1-DBEB-467C-A39B-61F2755F1798}|sistema.csproj|c:\\users\\47423489824\\desktop\\5_dev_td\\sprint - 5 - projetos\\sistemaescolar\\viniciusporcionato\\sistema\\views\\atividades\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A0629BF1-DBEB-467C-A39B-61F2755F1798}|sistema.csproj|solutionrelative:views\\atividades\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0629BF1-DBEB-467C-A39B-61F2755F1798}|sistema.csproj|c:\\users\\47423489824\\desktop\\5_dev_td\\sprint - 5 - projetos\\sistemaescolar\\viniciusporcionato\\sistema\\views\\professor\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A0629BF1-DBEB-467C-A39B-61F2755F1798}|sistema.csproj|solutionrelative:views\\professor\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0629BF1-DBEB-467C-A39B-61F2755F1798}|sistema.csproj|c:\\users\\47423489824\\desktop\\5_dev_td\\sprint - 5 - projetos\\sistemaescolar\\viniciusporcionato\\sistema\\controllers\\professorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0629BF1-DBEB-467C-A39B-61F2755F1798}|sistema.csproj|solutionrelative:controllers\\professorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProfessorController.cs",
+              "DocumentMoniker": "C:\\Users\\47423489824\\Desktop\\5_DEV_TD\\SPRINT - 5 - Projetos\\SistemaEscolar\\ViniciusPorcionato\\sistema\\Controllers\\ProfessorController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProfessorController.cs",
+              "ToolTip": "C:\\Users\\47423489824\\Desktop\\5_DEV_TD\\SPRINT - 5 - Projetos\\SistemaEscolar\\ViniciusPorcionato\\sistema\\Controllers\\ProfessorController.cs",
+              "RelativeToolTip": "Controllers\\ProfessorController.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAgwD0AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T20:12:10.774Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AtividadesController.cs",
+              "DocumentMoniker": "C:\\Users\\47423489824\\Desktop\\5_DEV_TD\\SPRINT - 5 - Projetos\\SistemaEscolar\\ViniciusPorcionato\\sistema\\Controllers\\AtividadesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AtividadesController.cs",
+              "ToolTip": "C:\\Users\\47423489824\\Desktop\\5_DEV_TD\\SPRINT - 5 - Projetos\\SistemaEscolar\\ViniciusPorcionato\\sistema\\Controllers\\AtividadesController.cs",
+              "RelativeToolTip": "Controllers\\AtividadesController.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAYwDUAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T19:49:22.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\47423489824\\Desktop\\5_DEV_TD\\SPRINT - 5 - Projetos\\SistemaEscolar\\ViniciusPorcionato\\sistema\\Views\\Professor\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Professor\\Index.cshtml",
+              "ToolTip": "C:\\Users\\47423489824\\Desktop\\5_DEV_TD\\SPRINT - 5 - Projetos\\SistemaEscolar\\ViniciusPorcionato\\sistema\\Views\\Professor\\Index.cshtml",
+              "RelativeToolTip": "Views\\Professor\\Index.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABMAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-15T18:36:40.709Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\47423489824\\Desktop\\5_DEV_TD\\SPRINT - 5 - Projetos\\SistemaEscolar\\ViniciusPorcionato\\sistema\\Views\\Atividades\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Atividades\\Index.cshtml",
+              "ToolTip": "C:\\Users\\47423489824\\Desktop\\5_DEV_TD\\SPRINT - 5 - Projetos\\SistemaEscolar\\ViniciusPorcionato\\sistema\\Views\\Atividades\\Index.cshtml",
+              "RelativeToolTip": "Views\\Atividades\\Index.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAUwBoAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-15T20:05:32.779Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
