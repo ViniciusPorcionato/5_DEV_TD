@@ -1,0 +1,46 @@
+# Node.js with React
+# Build a Node.js project that uses React.
+# Add steps that analyze code, save build artifacts, deploy, and more:
+# https://docs.microsoft.com/azure/devops/pipelines/languages/javascript
+
+trigger:
+- master
+
+pool:
+  name: 'agent-deploy'
+
+steps:
+- task: NodeTool@0
+  inputs:
+    versionSpec: '20.x'
+  displayName: 'Install Node.js'
+
+- task: Npm@0
+  inputs:
+    command: 'install'
+    workingDir: '$(System.DefaultWorkingDirectory)'
+  displayName: 'Install Dependencies'
+
+- task: Npm@1
+  inputs:
+    command: 'custom'
+    workingDir: '$(System.DefaultWorkingDirectory)'
+    customCommand: 'run build'
+  displayName: 'Build Application'
+
+- task: ArchiveFiles@2
+  inputs:
+    rootFolderOrFile: '$(System.DefaultWorkingDirectory)/build' # Pasta da build
+    includeRootFolder: false
+    archiveType: 'zip'
+    archiveFile: '$(Build.ArtifactStagingDirectory)/app.zip'
+    replaceExistingArchive: true
+  displayName: 'Arquivar arquivos para deploy'
+
+- task: AzureWebApp@1
+  displayName: 'Deploy Azure Web App'
+  inputs:
+    azureSubscription: 'ativemets-service'
+    appName: 'ativements-project-porcionato'
+    package: '$(Build.ArtifactStagingDirectory)/app.zip' # Pacote zip gerado
+    deploymentMethod: 'zipDeploy'

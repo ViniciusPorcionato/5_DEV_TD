@@ -1,0 +1,6 @@
+npm i json-server => https://www.npmjs.com/package/json-server
+npm i react-router-dom => https://www.npmjs.com/package/react-router-dom
+npm i octokit (integração com o GitHub) => https://www.npmjs.com/package/octokit
+npm i react-icons => https://www.npmjs.com/package/react-icons
+npm i uuid (gera um hash aleatório) => https://www.npmjs.com/package/uuid
+npm i tailwindcss => hthttps://www.npmjs.com/package/react-iconstps://tailwindcss.com/docs/installation

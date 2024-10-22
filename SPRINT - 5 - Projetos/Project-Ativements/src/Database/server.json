@@ -1,0 +1,63 @@
+{
+  "locais": [
+    {
+      "id": "726d1217-87dd-42f6-a0b0-643ba9376c42",
+      "nome": "Sala 19"
+    },
+    {
+      "id": "09fcea17-4487-4e8d-8192-5c4a68bb8157",
+      "nome": "Sala 21"
+    }
+  ],
+  "ativos": [
+    {
+      "id": "7e9d4461-8cbd-4017-bbe8-f01ed2c66af2",
+      "nome": "Mouse",
+      "numero": "1234567",
+      "local": "726d1217-87dd-42f6-a0b0-643ba9376c42",
+      "dataRegistro": "13/09/2024, 15:03:31",
+      "usuario_id": "c4463e28-2c70-48c8-a451-e0fbe8088277",
+      "status": true
+    },
+    {
+      "id": "6810daa7-0a54-447f-8a03-8755895b4118",
+      "nome": "Cadeira",
+      "numero": "7654321",
+      "local": "09fcea17-4487-4e8d-8192-5c4a68bb8157",
+      "dataRegistro": "13/09/2024, 15:03:49",
+      "usuario_id": "c4463e28-2c70-48c8-a451-e0fbe8088277",
+      "status": true
+    },
+    {
+      "nome": "Notebook",
+      "numero": "3456721",
+      "local": "09fcea17-4487-4e8d-8192-5c4a68bb8157",
+      "id": "66d85776-c75d-429a-a965-9bb751cd9296",
+      "dataRegistro": "13/09/2024, 15:04:06",
+      "usuario_id": "c4463e28-2c70-48c8-a451-e0fbe8088277",
+      "status": true
+    },
+    {
+      "id": "b779deb3-06c0-4005-8323-28c13a5fd080",
+      "nome": "Cabo HDMI ",
+      "numero": "0987658",
+      "local": "726d1217-87dd-42f6-a0b0-643ba9376c42",
+      "dataRegistro": "13/09/2024, 15:04:27",
+      "usuario_id": "c4463e28-2c70-48c8-a451-e0fbe8088277",
+      "status": true
+    }
+  ],
+  "usuarios": [
+    {
+      "id": "c4463e28-2c70-48c8-a451-e0fbe8088277",
+      "login": "viniciusporcionato",
+      "image": "https://avatars.githubusercontent.com/u/123662367?v=4",
+      "ultimoAcesso": "11/09/2024, 14:40:23"
+    },
+    {
+      "id": "e2e842ce-5068-4473-91e7-a6ce0b664b5c",
+      "login": "s",
+      "image": "https://avatars.githubusercontent.com/u/1969638?v=4"
+    }
+  ]
+}
